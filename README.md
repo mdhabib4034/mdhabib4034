@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mohammad Baharain Habib 👋
 
-<!--
-**mdhabib4034/mdhabib4034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | CSE Student
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering student passionate about
+Software Engineering, Web Development, Machine Learning and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- PHP
+- Laravel
+- C/C++
+- Python
+- MySQL
+- Git & GitHub
+- Machine Learning
+- HTML & CSS
+- JavaScript
+
+## 💻 Projects
+
+- Laravel-based Web Applications
+- Rice Leaf Disease Classification
+- Human Activity Recognition using CNN
+- Image Captioning using Deep Learning
+
+## 🎯 Currently Learning
+
+- Software Engineering
+- DevOps
+- Cloud Computing
+- Advanced Git & GitHub
+
+## 📫 Connect With Me
+
+- GitHub
+- LinkedIn
+- Email
