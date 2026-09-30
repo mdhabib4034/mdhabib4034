@@ -34,5 +34,5 @@ Software Engineering, Web Development, Machine Learning and DevOps.
 ## 📫 Connect With Me
 
 - GitHub
-- LinkedIn
-- Email
+- LinkedIn : linkedin.com/in/mohammad-baharain-habib-807426244
+- baharain00@gmail.com
